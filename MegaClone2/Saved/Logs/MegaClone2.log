@@ -876,3 +876,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.02-04.21.04:765][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.06.02-04.21.04:767][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
 [2020.06.02-04.21.04:827][625]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.06.02-04.24.33:248][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.06.02-04.24.33:267][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2020.06.02-04.24.33:276][582]LogSavePackage: Moving 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Saved/BP_GameModeA2D75BEC4557F32A04C4C182FDBC0928.tmp' to 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Content/Blueprints/BP_GameMode.uasset'
+[2020.06.02-04.24.33:277][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2020.06.02-04.24.33:284][582]LogSavePackage: Moving 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Saved/BP_PlayerController2AD57E794D2C3C47D9FEC6B28EA0F0BF.tmp' to 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Content/Blueprints/BP_PlayerController.uasset'
+[2020.06.02-04.24.33:301][582]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.02-04.24.33:302][582]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2020.06.02-04.24.33:302][582]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerController.BP_PlayerController
