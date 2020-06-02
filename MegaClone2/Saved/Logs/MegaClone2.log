@@ -3990,3 +3990,105 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.02-04.12.01:229][811]AssetCheck: New page: Asset Save: multiple assets
 [2020.06.02-04.12.01:229][811]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/BattleLevel.BattleLevel
 [2020.06.02-04.12.01:229][811]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/BattleLevel_BuiltData.BattleLevel_BuiltData
+[2020.06.02-04.16.07:469][631]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.06.02-04.16.07:758][631]LogSlate: Window 'MegaClone2 - Unreal Editor' being destroyed
+[2020.06.02-04.16.08:456][632]Cmd: QUIT_EDITOR
+[2020.06.02-04.16.08:456][632]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.06.02-04.16.08:531][632]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.06.02-04.16.08:571][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.02-04.16.09:592][632]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.02-04.16.09:730][632]LogExit: Preparing to exit.
+[2020.06.02-04.16.10:783][632]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.06.02-04.16.10:785][632]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.02-04.16.10:788][632]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.02-04.16.10:790][632]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.06.02-04.16.10:793][632]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.06.02-04.16.11:191][632]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.06.02-04.16.11:747][632]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.06.02-04.16.11:747][632]LogExit: Editor shut down
+[2020.06.02-04.16.11:751][632]LogExit: Transaction tracking system shut down
+[2020.06.02-04.16.15:978][632]LogExit: Object subsystem successfully closed.
+[2020.06.02-04.16.16:818][632]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.02-04.16.18:900][632]LogModuleManager: Shutting down and abandoning module NewLevelDialog (692)
+[2020.06.02-04.16.18:900][632]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (690)
+[2020.06.02-04.16.18:915][632]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (688)
+[2020.06.02-04.16.18:915][632]LogModuleManager: Shutting down and abandoning module BlueprintGraph (686)
+[2020.06.02-04.16.18:915][632]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (684)
+[2020.06.02-04.16.18:915][632]LogModuleManager: Shutting down and abandoning module SceneOutliner (682)
+[2020.06.02-04.16.18:915][632]LogModuleManager: Shutting down and abandoning module AddContentDialog (680)
+[2020.06.02-04.16.19:139][632]LogModuleManager: Shutting down and abandoning module WidgetCarousel (679)
+[2020.06.02-04.16.19:139][632]LogModuleManager: Shutting down and abandoning module EditorWidgets (676)
+[2020.06.02-04.16.19:140][632]LogModuleManager: Shutting down and abandoning module CollectionManager (674)
+[2020.06.02-04.16.19:148][632]LogModuleManager: Shutting down and abandoning module MeshBuilder (672)
+[2020.06.02-04.16.19:148][632]LogModuleManager: Shutting down and abandoning module StatsViewer (670)
+[2020.06.02-04.16.19:175][632]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (668)
+[2020.06.02-04.16.19:181][632]LogModuleManager: Shutting down and abandoning module FoliageEdit (666)
+[2020.06.02-04.16.19:239][632]LogModuleManager: Shutting down and abandoning module LandscapeEditor (664)
+[2020.06.02-04.16.19:335][632]LogModuleManager: Shutting down and abandoning module MeshPaintMode (662)
+[2020.06.02-04.16.19:335][632]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (660)
+[2020.06.02-04.16.19:335][632]LogModuleManager: Shutting down and abandoning module ActorPickerMode (658)
+[2020.06.02-04.16.19:335][632]LogModuleManager: Shutting down and abandoning module GeometryMode (656)
+[2020.06.02-04.16.19:335][632]LogModuleManager: Shutting down and abandoning module TextureAlignMode (654)
+[2020.06.02-04.16.19:335][632]LogModuleManager: Shutting down and abandoning module BspMode (652)
+[2020.06.02-04.16.19:335][632]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (650)
+[2020.06.02-04.16.19:370][632]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (648)
+[2020.06.02-04.16.19:376][632]LogModuleManager: Shutting down and abandoning module AutomationWorker (646)
+[2020.06.02-04.16.19:376][632]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (644)
+[2020.06.02-04.16.19:388][632]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (642)
+[2020.06.02-04.16.19:403][632]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (640)
+[2020.06.02-04.16.19:468][632]LogModuleManager: Shutting down and abandoning module PlacementMode (639)
+[2020.06.02-04.16.19:468][632]LogModuleManager: Shutting down and abandoning module MaterialEditor (638)
+[2020.06.02-04.16.19:468][632]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (634)
+[2020.06.02-04.16.19:489][632]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (632)
+[2020.06.02-04.16.19:489][632]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (630)
+[2020.06.02-04.16.19:489][632]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (628)
+[2020.06.02-04.16.19:489][632]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (626)
+[2020.06.02-04.16.19:489][632]LogModuleManager: Shutting down and abandoning module WebMMedia (624)
+[2020.06.02-04.16.19:541][632]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (622)
+[2020.06.02-04.16.19:552][632]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (620)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module SequenceRecorder (619)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (616)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (614)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (612)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (610)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (608)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (606)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (604)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (602)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (600)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (598)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module CharacterAI (596)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module SmartSnapping (594)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module SessionServices (592)
+[2020.06.02-04.16.19:605][632]LogModuleManager: Shutting down and abandoning module MeshPaint (590)
+[2020.06.02-04.16.19:637][632]LogModuleManager: Shutting down and abandoning module ViewportSnapping (588)
+[2020.06.02-04.16.19:637][632]LogModuleManager: Shutting down and abandoning module ViewportInteraction (586)
+[2020.06.02-04.16.19:637][632]LogModuleManager: Shutting down and abandoning module ClothPainter (584)
+[2020.06.02-04.16.19:679][632]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (583)
+[2020.06.02-04.16.19:719][632]LogModuleManager: Shutting down and abandoning module LogVisualizer (580)
+[2020.06.02-04.16.19:783][632]LogModuleManager: Shutting down and abandoning module IntroTutorials (578)
+[2020.06.02-04.16.19:803][632]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (577)
+[2020.06.02-04.16.19:834][632]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (574)
+[2020.06.02-04.16.19:834][632]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (572)
+[2020.06.02-04.16.19:834][632]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (570)
+[2020.06.02-04.16.19:834][632]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (569)
+[2020.06.02-04.16.20:880][632]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (566)
+[2020.06.02-04.16.20:880][632]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (564)
+[2020.06.02-04.16.20:880][632]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (562)
+[2020.06.02-04.16.20:880][632]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (560)
+[2020.06.02-04.16.20:880][632]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (558)
+[2020.06.02-04.16.20:880][632]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (556)
+[2020.06.02-04.16.20:880][632]LogModuleManager: Shutting down and abandoning module InputBindingEditor (554)
+[2020.06.02-04.16.20:881][632]LogModuleManager: Shutting down and abandoning module MergeActors (552)
+[2020.06.02-04.16.20:900][632]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (550)
+[2020.06.02-04.16.20:912][632]LogModuleManager: Shutting down and abandoning module LocalizationService (549)
+[2020.06.02-04.16.20:931][632]LogModuleManager: Shutting down and abandoning module HardwareTargeting (546)
+[2020.06.02-04.16.20:931][632]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (544)
+[2020.06.02-04.16.20:931][632]LogModuleManager: Shutting down and abandoning module UndoHistory (542)
+[2020.06.02-04.16.20:935][632]LogModuleManager: Shutting down and abandoning module XmlParser (540)
+[2020.06.02-04.16.20:957][632]LogModuleManager: Shutting down and abandoning module Blutility (538)
+[2020.06.02-04.16.20:957][632]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (536)
+[2020.06.02-04.16.20:957][632]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (535)
+[2020.06.02-04.16.20:957][632]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (532)
+[2020.06.02-04.16.20:957][632]LogModuleManager: Shutting down and abandoning module SettingsEditor (530)
+[2020.06.02-04.16.20:976][632]LogModuleManager: Shutting down and abandoning module ProjectLauncher (528)
