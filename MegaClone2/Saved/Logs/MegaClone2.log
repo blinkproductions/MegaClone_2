@@ -916,3 +916,1571 @@ Make sure 'BP_PlayerController_C' has been compiled for  Get HudWidget
 [2020.06.06-23.37.49:591][538]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
 [2020.06.06-23.37.49:591][538]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/BP_InventoryWindow.BP_InventoryWindow
 [2020.06.06-23.37.49:591][538]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainCharacter2.BP_MainCharacter2
+[2020.06.06-23.41.23:904][994]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.06-23.41.23:935][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.06-23.41.23:935][994]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 9:41:23 AM)
+[2020.06.06-23.41.23:935][994]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.06-23.41.23:937][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002241s)
+[2020.06.06-23.41.23:938][994]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.06-23.41.23:938][994]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2020.06.06-23.41.23:938][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003241s)
+[2020.06.06-23.41.23:982][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.06.06-23.41.23:986][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.06-23.41.23:986][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.06-23.41.23:986][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.06-23.41.23:986][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.06-23.41.23:986][994]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.06-23.41.23:986][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.06-23.41.23:986][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.06-23.41.23:986][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.06-23.41.23:986][994]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.06-23.41.23:986][994]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.06-23.41.24:047][994]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.06-23.41.24:047][994]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.06-23.41.24:047][994]LogAudioMixer: Display: Is Default: Yes
+[2020.06.06-23.41.24:047][994]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.06-23.41.24:047][994]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.06-23.41.24:047][994]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.06-23.41.24:047][994]LogAudioMixer: Display: Channel Order:
+[2020.06.06-23.41.24:047][994]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.06-23.41.24:047][994]LogAudioMixer: Display: 1: FrontRight
+[2020.06.06-23.41.24:059][994]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.06-23.41.24:060][994]LogInit: FAudioDevice initialized.
+[2020.06.06-23.41.24:068][994]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.06-23.41.24:069][994]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-16.41.24
+[2020.06.06-23.41.24:069][994]LogWorld: Bringing up level for play took: 0.001184
+[2020.06.06-23.41.24:070][994]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.06.06-23.41.24:072][994]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.27
+[2020.06.06-23.41.25:416][140]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.06-23.41.30:538][714]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.41.30:538][714]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.41.30:538][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.06-23.41.30:538][714]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.06-23.41.30:538][714]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.41.30:538][714]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.06-23.41.30:538][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.06-23.41.30:543][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.06-23.41.30:547][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.06-23.41.30:584][714]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.41.30:586][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.06-23.41.30:589][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.06.06-23.41.30:640][716]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.06.06-23.41.56:857][654]LogSlate: Took 0.001316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.06.06-23.42.08:650][851]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.06-23.42.08:705][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.06.06-23.42.10:017][963]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.06-23.42.10:045][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.06-23.42.10:046][963]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 9:42:10 AM)
+[2020.06.06-23.42.10:046][963]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.06-23.42.10:048][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002080s)
+[2020.06.06-23.42.10:048][963]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.06-23.42.10:048][963]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2020.06.06-23.42.10:049][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002839s)
+[2020.06.06-23.42.10:088][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.06.06-23.42.10:088][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.06-23.42.10:088][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.06-23.42.10:088][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.06-23.42.10:088][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.06-23.42.10:088][963]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.06-23.42.10:088][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.06-23.42.10:088][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.06-23.42.10:088][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.06-23.42.10:089][963]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.06-23.42.10:089][963]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.06-23.42.10:150][963]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.06-23.42.10:150][963]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.06-23.42.10:150][963]LogAudioMixer: Display: Is Default: Yes
+[2020.06.06-23.42.10:150][963]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.06-23.42.10:150][963]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.06-23.42.10:150][963]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.06-23.42.10:150][963]LogAudioMixer: Display: Channel Order:
+[2020.06.06-23.42.10:150][963]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.06-23.42.10:150][963]LogAudioMixer: Display: 1: FrontRight
+[2020.06.06-23.42.10:161][963]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.06-23.42.10:162][963]LogInit: FAudioDevice initialized.
+[2020.06.06-23.42.10:168][963]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.06-23.42.10:170][963]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-16.42.10
+[2020.06.06-23.42.10:170][963]LogWorld: Bringing up level for play took: 0.000919
+[2020.06.06-23.42.10:170][963]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.06.06-23.42.10:172][963]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.169
+[2020.06.06-23.42.10:818][ 26]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.06-23.42.16:639][649]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.42.16:639][649]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.42.16:639][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.06-23.42.16:639][649]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.06-23.42.16:639][649]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.42.16:639][649]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.06-23.42.16:639][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.06-23.42.16:645][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.06-23.42.16:650][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.06-23.42.16:685][649]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.42.16:687][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.06-23.42.16:690][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.06.06-23.42.16:741][651]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.06.06-23.45.57:686][896]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.06-23.45.57:715][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.06-23.45.57:715][896]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 9:45:57 AM)
+[2020.06.06-23.45.57:716][896]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.06-23.45.57:718][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002276s)
+[2020.06.06-23.45.57:718][896]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.06-23.45.57:719][896]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2020.06.06-23.45.57:719][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003134s)
+[2020.06.06-23.45.57:761][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.06.06-23.45.57:765][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.06-23.45.57:765][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.06-23.45.57:765][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.06-23.45.57:765][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.06-23.45.57:765][896]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.06-23.45.57:765][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.06-23.45.57:765][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.06-23.45.57:765][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.06-23.45.57:765][896]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.06-23.45.57:765][896]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.06-23.45.57:828][896]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.06-23.45.57:828][896]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.06-23.45.57:828][896]LogAudioMixer: Display: Is Default: Yes
+[2020.06.06-23.45.57:828][896]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.06-23.45.57:828][896]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.06-23.45.57:828][896]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.06-23.45.57:828][896]LogAudioMixer: Display: Channel Order:
+[2020.06.06-23.45.57:828][896]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.06-23.45.57:828][896]LogAudioMixer: Display: 1: FrontRight
+[2020.06.06-23.45.57:840][896]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.06-23.45.57:841][896]LogInit: FAudioDevice initialized.
+[2020.06.06-23.45.57:850][896]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.06-23.45.57:851][896]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-16.45.57
+[2020.06.06-23.45.57:851][896]LogWorld: Bringing up level for play took: 0.001018
+[2020.06.06-23.45.57:852][896]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.06.06-23.45.57:854][896]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.488
+[2020.06.06-23.45.58:947][ 10]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.45.58:947][ 10]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.45.58:947][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.06-23.45.58:947][ 10]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.06-23.45.58:947][ 10]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.45.58:947][ 10]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.06-23.45.58:947][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.06-23.45.58:957][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.06-23.45.58:961][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.06-23.45.59:000][ 10]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.45.59:002][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.06-23.45.59:006][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.06.06-23.45.59:054][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.06.06-23.46.00:192][132]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.06-23.46.00:219][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.06-23.46.00:219][132]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 9:46:00 AM)
+[2020.06.06-23.46.00:219][132]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.06-23.46.00:221][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002518s)
+[2020.06.06-23.46.00:222][132]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.06-23.46.00:222][132]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2020.06.06-23.46.00:222][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003464s)
+[2020.06.06-23.46.00:263][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.06.06-23.46.00:264][132]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.06-23.46.00:264][132]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.06-23.46.00:264][132]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.06-23.46.00:264][132]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.06-23.46.00:264][132]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.06-23.46.00:264][132]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.06-23.46.00:264][132]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.06-23.46.00:264][132]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.06-23.46.00:264][132]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.06-23.46.00:264][132]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.06-23.46.00:327][132]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.06-23.46.00:327][132]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.06-23.46.00:327][132]LogAudioMixer: Display: Is Default: Yes
+[2020.06.06-23.46.00:327][132]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.06-23.46.00:327][132]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.06-23.46.00:327][132]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.06-23.46.00:327][132]LogAudioMixer: Display: Channel Order:
+[2020.06.06-23.46.00:327][132]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.06-23.46.00:327][132]LogAudioMixer: Display: 1: FrontRight
+[2020.06.06-23.46.00:340][132]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.06-23.46.00:342][132]LogInit: FAudioDevice initialized.
+[2020.06.06-23.46.00:353][132]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.06-23.46.00:354][132]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-16.46.00
+[2020.06.06-23.46.00:354][132]LogWorld: Bringing up level for play took: 0.000931
+[2020.06.06-23.46.00:355][132]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.06.06-23.46.00:357][132]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.015
+[2020.06.06-23.46.00:712][168]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.06-23.46.03:084][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.46.03:084][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.46.03:084][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.06-23.46.03:084][415]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.06-23.46.03:084][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.46.03:085][415]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.06-23.46.03:085][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.06-23.46.03:092][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.06-23.46.03:097][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.06-23.46.03:139][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.46.03:142][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.06-23.46.03:145][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.06.06-23.46.03:200][417]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.06.06-23.46.12:424][394]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.06-23.46.12:471][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.06.06-23.46.13:741][511]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.06-23.46.13:768][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.06-23.46.13:768][511]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 9:46:13 AM)
+[2020.06.06-23.46.13:768][511]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.06-23.46.13:770][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002237s)
+[2020.06.06-23.46.13:771][511]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.06-23.46.13:771][511]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2020.06.06-23.46.13:771][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003163s)
+[2020.06.06-23.46.13:809][511]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.06.06-23.46.13:810][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.06-23.46.13:810][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.06-23.46.13:810][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.06-23.46.13:810][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.06-23.46.13:810][511]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.06-23.46.13:810][511]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.06-23.46.13:810][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.06-23.46.13:810][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.06-23.46.13:810][511]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.06-23.46.13:810][511]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.06-23.46.13:871][511]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.06-23.46.13:871][511]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.06-23.46.13:871][511]LogAudioMixer: Display: Is Default: Yes
+[2020.06.06-23.46.13:871][511]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.06-23.46.13:871][511]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.06-23.46.13:871][511]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.06-23.46.13:871][511]LogAudioMixer: Display: Channel Order:
+[2020.06.06-23.46.13:871][511]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.06-23.46.13:871][511]LogAudioMixer: Display: 1: FrontRight
+[2020.06.06-23.46.13:883][511]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.06-23.46.13:884][511]LogInit: FAudioDevice initialized.
+[2020.06.06-23.46.13:892][511]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.06-23.46.13:894][511]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-16.46.13
+[2020.06.06-23.46.13:894][511]LogWorld: Bringing up level for play took: 0.000895
+[2020.06.06-23.46.13:894][511]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.06.06-23.46.13:896][511]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.446
+[2020.06.06-23.46.14:293][553]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.06-23.46.20:429][235]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.46.20:429][235]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.46.20:430][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.06-23.46.20:430][235]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.06-23.46.20:430][235]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.46.20:430][235]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.06-23.46.20:430][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.06-23.46.20:438][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.06-23.46.20:442][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.06-23.46.20:477][235]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.46.20:480][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.06-23.46.20:483][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.06.06-23.46.20:534][237]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.06.06-23.46.22:310][422]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.06-23.46.22:336][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.06-23.46.22:336][422]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 9:46:22 AM)
+[2020.06.06-23.46.22:336][422]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.06-23.46.22:338][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002211s)
+[2020.06.06-23.46.22:339][422]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.06-23.46.22:339][422]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2020.06.06-23.46.22:339][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003011s)
+[2020.06.06-23.46.22:376][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.06.06-23.46.22:376][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.06-23.46.22:376][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.06-23.46.22:376][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.06-23.46.22:377][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.06-23.46.22:377][422]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.06-23.46.22:377][422]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.06-23.46.22:377][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.06-23.46.22:377][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.06-23.46.22:377][422]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.06-23.46.22:377][422]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.06-23.46.22:436][422]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.06-23.46.22:436][422]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.06-23.46.22:436][422]LogAudioMixer: Display: Is Default: Yes
+[2020.06.06-23.46.22:436][422]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.06-23.46.22:436][422]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.06-23.46.22:436][422]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.06-23.46.22:436][422]LogAudioMixer: Display: Channel Order:
+[2020.06.06-23.46.22:436][422]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.06-23.46.22:436][422]LogAudioMixer: Display: 1: FrontRight
+[2020.06.06-23.46.22:448][422]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.06-23.46.22:449][422]LogInit: FAudioDevice initialized.
+[2020.06.06-23.46.22:457][422]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.06-23.46.22:458][422]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-16.46.22
+[2020.06.06-23.46.22:459][422]LogWorld: Bringing up level for play took: 0.000995
+[2020.06.06-23.46.22:459][422]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.06.06-23.46.22:461][422]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.119
+[2020.06.06-23.46.23:230][503]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.06-23.46.25:561][758]LogBlueprintUserMessages: [BP_Inventory] Toggled To Close!
+[2020.06.06-23.46.29:909][228]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.46.29:909][228]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.46.29:909][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.06-23.46.29:909][228]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.06-23.46.29:910][228]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.46.29:910][228]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.06-23.46.29:910][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.06-23.46.29:915][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.06-23.46.29:919][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.06-23.46.29:956][228]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.06-23.46.29:958][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.06-23.46.29:962][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.06.06-23.46.30:014][230]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.06.06-23.50.27:439][611]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.06-23.50.27:489][611]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.06.06-23.51.04:140][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.06.06-23.51.04:142][142]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MovementTest' took 0.043
+[2020.06.06-23.51.04:143][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/BP_InventoryWindow] ([1] browsable assets)...
+[2020.06.06-23.51.04:143][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/BP_InventoryWindow]
+[2020.06.06-23.51.04:162][142]LogSavePackage: Moving 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Saved/BP_InventoryWindow_Auto11C52BDC5428F58A5C6EE69A57CC42EE7.tmp' to 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Saved/Autosaves/Game/Widgets/BP_InventoryWindow_Auto1.uasset'
+[2020.06.06-23.51.04:162][142]LogFileHelpers: Auto-saving content packages took 0.020
+[2020.06.06-23.52.26:609][ 52]LogEditorTransaction: Undo Wrap Widgets
+[2020.06.07-00.00.39:776][910]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.06.07-00.01.08:597][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.06.07-00.01.08:599][731]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MovementTest' took 0.052
+[2020.06.07-00.01.08:600][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/BP_InventoryWindow] ([1] browsable assets)...
+[2020.06.07-00.01.08:600][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/BP_InventoryWindow]
+[2020.06.07-00.01.08:625][731]LogSavePackage: Moving 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Saved/BP_InventoryWindow_Auto21043BD8446503C96F8F1FBBEA05BC3D6.tmp' to 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Saved/Autosaves/Game/Widgets/BP_InventoryWindow_Auto2.uasset'
+[2020.06.07-00.01.08:625][731]LogFileHelpers: Auto-saving content packages took 0.025
+[2020.06.07-00.03.15:578][189]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.03.15:630][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.06.07-00.03.17:354][375]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.03.17:382][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.03.17:382][375]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:03:17 AM)
+[2020.06.07-00.03.17:382][375]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.03.17:385][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002301s)
+[2020.06.07-00.03.17:385][375]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.03.17:385][375]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2020.06.07-00.03.17:386][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003149s)
+[2020.06.07-00.03.17:429][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.06.07-00.03.17:431][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.03.17:431][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.03.17:431][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.03.17:431][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.03.17:431][375]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.03.17:431][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.03.17:431][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.03.17:431][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.03.17:431][375]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.03.17:431][375]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.03.17:494][375]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.03.17:494][375]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.03.17:494][375]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.03.17:494][375]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.03.17:494][375]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.03.17:494][375]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.03.17:494][375]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.03.17:494][375]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.03.17:494][375]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.03.17:507][375]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.03.17:508][375]LogInit: FAudioDevice initialized.
+[2020.06.07-00.03.17:515][375]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.03.17:517][375]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.03.17
+[2020.06.07-00.03.17:517][375]LogWorld: Bringing up level for play took: 0.000884
+[2020.06.07-00.03.17:517][375]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.06.07-00.03.17:519][375]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.822
+[2020.06.07-00.03.18:294][458]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.03.25:809][349]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.03.25:809][349]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.03.25:810][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.03.25:810][349]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.03.25:810][349]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.03.25:810][349]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.03.25:810][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.03.25:820][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.03.25:825][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.03.25:864][349]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.03.25:867][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.03.25:871][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.06.07-00.03.25:922][351]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.06.07-00.05.28:782][936]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.05.28:839][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.06.07-00.05.30:045][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.05.30:073][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.05.30:073][ 48]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:05:30 AM)
+[2020.06.07-00.05.30:073][ 48]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.05.30:075][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002056s)
+[2020.06.07-00.05.30:076][ 48]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.05.30:076][ 48]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2020.06.07-00.05.30:076][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002834s)
+[2020.06.07-00.05.30:118][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.06.07-00.05.30:119][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.05.30:119][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.05.30:119][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.05.30:119][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.05.30:119][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.05.30:119][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.05.30:119][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.05.30:119][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.05.30:119][ 48]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.05.30:119][ 48]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.05.30:179][ 48]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.05.30:179][ 48]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.05.30:179][ 48]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.05.30:179][ 48]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.05.30:179][ 48]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.05.30:179][ 48]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.05.30:179][ 48]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.05.30:179][ 48]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.05.30:179][ 48]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.05.30:191][ 48]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.05.30:192][ 48]LogInit: FAudioDevice initialized.
+[2020.06.07-00.05.30:202][ 48]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.05.30:203][ 48]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.05.30
+[2020.06.07-00.05.30:203][ 48]LogWorld: Bringing up level for play took: 0.000790
+[2020.06.07-00.05.30:204][ 48]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.06.07-00.05.30:205][ 48]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.136
+[2020.06.07-00.05.31:563][189]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.05.33:003][346]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.05.33:003][346]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.05.33:004][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.05.33:004][346]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.05.33:004][346]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.05.33:004][346]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.05.33:004][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.05.33:013][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.05.33:018][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.05.33:053][346]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.05.33:056][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.05.33:060][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.06.07-00.05.33:110][348]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.06.07-00.07.23:632][380]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.07.23:660][380]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.06.07-00.07.23:662][380]LogPlayLevel: [PlayLevel] Compiling BP_InventoryWindow before play...
+[2020.06.07-00.07.23:930][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.06.07-00.07.23:932][380]LogPlayLevel: PlayLevel: Blueprint regeneration took 272 ms (1 blueprints)
+[2020.06.07-00.07.23:932][380]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:07:23 AM)
+[2020.06.07-00.07.23:932][380]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.07.23:934][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002076s)
+[2020.06.07-00.07.23:935][380]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.07.23:935][380]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2020.06.07-00.07.23:935][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002862s)
+[2020.06.07-00.07.23:973][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.06.07-00.07.23:973][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.07.23:973][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.07.23:973][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.07.23:974][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.07.23:974][380]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.07.23:974][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.07.23:974][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.07.23:974][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.07.23:974][380]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.07.23:974][380]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.07.24:037][380]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.07.24:037][380]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.07.24:037][380]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.07.24:037][380]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.07.24:037][380]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.07.24:037][380]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.07.24:037][380]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.07.24:037][380]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.07.24:037][380]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.07.24:049][380]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.07.24:050][380]LogInit: FAudioDevice initialized.
+[2020.06.07-00.07.24:061][380]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.07.24:062][380]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.07.24
+[2020.06.07-00.07.24:062][380]LogWorld: Bringing up level for play took: 0.000974
+[2020.06.07-00.07.24:062][380]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.06.07-00.07.24:065][380]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.277
+[2020.06.07-00.07.24:657][445]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.07.41:109][367]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.07.41:109][367]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.07.41:110][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.07.41:110][367]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.07.41:110][367]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.07.41:110][367]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.07.41:110][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.07.41:117][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.07.41:122][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.07.41:157][367]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.07.41:160][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.07.41:164][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.06.07-00.07.41:214][369]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.06.07-00.07.48:676][192]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.07.48:725][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.06.07-00.07.49:867][307]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.07.49:896][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.07.49:896][307]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:07:49 AM)
+[2020.06.07-00.07.49:896][307]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.07.49:898][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002184s)
+[2020.06.07-00.07.49:899][307]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.07.49:899][307]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2020.06.07-00.07.49:899][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003099s)
+[2020.06.07-00.07.49:939][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.06.07-00.07.49:939][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.07.49:939][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.07.49:939][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.07.49:939][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.07.49:939][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.07.49:939][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.07.49:939][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.07.49:939][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.07.49:940][307]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.07.49:940][307]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.07.49:999][307]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.07.49:999][307]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.07.49:999][307]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.07.49:999][307]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.07.49:999][307]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.07.49:999][307]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.07.49:999][307]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.07.49:999][307]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.07.49:999][307]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.07.50:011][307]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.07.50:011][307]LogInit: FAudioDevice initialized.
+[2020.06.07-00.07.50:019][307]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.07.50:021][307]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.07.50
+[2020.06.07-00.07.50:021][307]LogWorld: Bringing up level for play took: 0.000845
+[2020.06.07-00.07.50:021][307]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.06.07-00.07.50:023][307]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.318
+[2020.06.07-00.07.50:751][384]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.07.55:617][948]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.07.55:617][948]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.07.55:618][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.07.55:618][948]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.07.55:618][948]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.07.55:618][948]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.07.55:618][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.07.55:625][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.07.55:630][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.07.55:668][948]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.07.55:670][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.07.55:673][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.06.07-00.07.55:694][949]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.06.07-00.08.00:582][464]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.08.00:639][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.06.07-00.08.01:919][587]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.08.01:947][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.08.01:947][587]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:08:01 AM)
+[2020.06.07-00.08.01:947][587]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.08.01:949][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002209s)
+[2020.06.07-00.08.01:950][587]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.08.01:950][587]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2020.06.07-00.08.01:950][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002989s)
+[2020.06.07-00.08.01:995][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.06.07-00.08.01:995][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.08.01:995][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.08.01:995][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.08.01:995][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.08.01:995][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.08.01:995][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.08.01:995][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.08.01:995][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.08.01:996][587]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.08.01:996][587]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.08.02:062][587]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.08.02:062][587]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.08.02:062][587]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.08.02:062][587]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.08.02:062][587]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.08.02:062][587]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.08.02:062][587]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.08.02:062][587]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.08.02:062][587]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.08.02:075][587]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.08.02:076][587]LogInit: FAudioDevice initialized.
+[2020.06.07-00.08.02:083][587]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.08.02:085][587]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.08.02
+[2020.06.07-00.08.02:085][587]LogWorld: Bringing up level for play took: 0.001021
+[2020.06.07-00.08.02:085][587]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.06.07-00.08.02:087][587]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.254
+[2020.06.07-00.08.02:662][647]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.08.07:512][185]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.08.07:512][185]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.08.07:513][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.08.07:513][185]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.08.07:513][185]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.08.07:513][185]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.08.07:513][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.08.07:520][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.08.07:527][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.08.07:568][185]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.08.07:571][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.08.07:575][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.06.07-00.08.07:627][187]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.06.07-00.08.12:421][703]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.08.12:472][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.06.07-00.08.13:569][806]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.08.13:601][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.08.13:601][806]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:08:13 AM)
+[2020.06.07-00.08.13:601][806]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.08.13:603][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002519s)
+[2020.06.07-00.08.13:604][806]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.08.13:604][806]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2020.06.07-00.08.13:604][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003474s)
+[2020.06.07-00.08.13:647][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.06.07-00.08.13:647][806]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.08.13:647][806]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.08.13:647][806]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.08.13:647][806]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.08.13:647][806]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.08.13:647][806]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.08.13:647][806]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.08.13:647][806]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.08.13:648][806]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.08.13:648][806]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.08.13:708][806]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.08.13:708][806]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.08.13:708][806]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.08.13:708][806]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.08.13:708][806]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.08.13:708][806]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.08.13:708][806]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.08.13:708][806]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.08.13:708][806]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.08.13:718][806]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.08.13:719][806]LogInit: FAudioDevice initialized.
+[2020.06.07-00.08.13:730][806]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.08.13:731][806]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.08.13
+[2020.06.07-00.08.13:732][806]LogWorld: Bringing up level for play took: 0.000792
+[2020.06.07-00.08.13:732][806]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.06.07-00.08.13:734][806]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.608
+[2020.06.07-00.08.15:276][983]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.08.17:132][198]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.08.17:132][198]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.08.17:133][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.08.17:133][198]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.08.17:133][198]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.08.17:133][198]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.08.17:133][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.08.17:138][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.08.17:143][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.08.17:181][198]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.08.17:184][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.08.17:187][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.06.07-00.08.17:240][200]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.06.07-00.08.41:608][910]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.08.41:658][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.06.07-00.08.42:958][ 36]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.08.42:987][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.08.42:987][ 36]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:08:42 AM)
+[2020.06.07-00.08.42:987][ 36]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.08.42:989][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002253s)
+[2020.06.07-00.08.42:990][ 36]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.08.42:990][ 36]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2020.06.07-00.08.42:990][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003243s)
+[2020.06.07-00.08.43:030][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.06.07-00.08.43:031][ 36]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.08.43:031][ 36]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.08.43:031][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.08.43:031][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.08.43:031][ 36]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.08.43:031][ 36]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.08.43:031][ 36]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.08.43:031][ 36]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.08.43:031][ 36]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.08.43:031][ 36]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.08.43:090][ 36]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.08.43:090][ 36]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.08.43:090][ 36]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.08.43:090][ 36]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.08.43:090][ 36]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.08.43:090][ 36]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.08.43:090][ 36]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.08.43:090][ 36]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.08.43:090][ 36]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.08.43:102][ 36]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.08.43:103][ 36]LogInit: FAudioDevice initialized.
+[2020.06.07-00.08.43:114][ 36]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.08.43:116][ 36]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.08.43
+[2020.06.07-00.08.43:116][ 36]LogWorld: Bringing up level for play took: 0.000976
+[2020.06.07-00.08.43:116][ 36]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.06.07-00.08.43:118][ 36]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.777
+[2020.06.07-00.08.43:970][128]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.08.45:496][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.08.45:496][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.08.45:496][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.08.45:496][298]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.08.45:496][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.08.45:497][298]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.08.45:497][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.08.45:507][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.08.45:513][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.08.45:547][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.08.45:549][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.08.45:553][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.06.07-00.08.45:623][300]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.06.07-00.10.45:464][570]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.10.45:513][570]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.06.07-00.10.47:212][723]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.10.47:239][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.10.47:239][723]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:10:47 AM)
+[2020.06.07-00.10.47:239][723]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.10.47:242][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002155s)
+[2020.06.07-00.10.47:242][723]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.10.47:242][723]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2020.06.07-00.10.47:242][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002926s)
+[2020.06.07-00.10.47:281][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.06.07-00.10.47:282][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.10.47:282][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.10.47:282][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.10.47:282][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.10.47:282][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.10.47:282][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.10.47:282][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.10.47:282][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.10.47:282][723]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.10.47:282][723]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.10.47:340][723]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.10.47:340][723]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.10.47:340][723]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.10.47:340][723]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.10.47:340][723]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.10.47:340][723]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.10.47:340][723]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.10.47:340][723]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.10.47:340][723]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.10.47:352][723]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.10.47:353][723]LogInit: FAudioDevice initialized.
+[2020.06.07-00.10.47:360][723]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.10.47:361][723]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.10.47
+[2020.06.07-00.10.47:361][723]LogWorld: Bringing up level for play took: 0.000860
+[2020.06.07-00.10.47:361][723]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.06.07-00.10.47:364][723]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 1.022
+[2020.06.07-00.10.47:910][778]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.10.50:702][ 74]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.10.50:702][ 74]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.10.50:702][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.10.50:702][ 74]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.10.50:702][ 74]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.10.50:702][ 74]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.10.50:703][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.10.50:714][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.10.50:718][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.10.50:757][ 74]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.10.50:760][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.10.50:763][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.06.07-00.10.50:812][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.06.07-00.10.55:365][562]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.10.55:416][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.06.07-00.10.56:504][659]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.10.56:531][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.10.56:532][659]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:10:56 AM)
+[2020.06.07-00.10.56:532][659]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.10.56:534][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002031s)
+[2020.06.07-00.10.56:534][659]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.10.56:534][659]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2020.06.07-00.10.56:535][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002797s)
+[2020.06.07-00.10.56:575][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.06.07-00.10.56:575][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.10.56:575][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.10.56:575][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.10.56:576][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.10.56:576][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.10.56:576][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.10.56:576][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.10.56:576][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.10.56:576][659]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.10.56:576][659]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.10.56:640][659]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.10.56:640][659]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.10.56:640][659]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.10.56:640][659]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.10.56:640][659]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.10.56:640][659]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.10.56:640][659]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.10.56:640][659]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.10.56:640][659]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.10.56:651][659]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.10.56:652][659]LogInit: FAudioDevice initialized.
+[2020.06.07-00.10.56:657][659]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.10.56:659][659]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.10.56
+[2020.06.07-00.10.56:659][659]LogWorld: Bringing up level for play took: 0.000881
+[2020.06.07-00.10.56:659][659]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.06.07-00.10.56:661][659]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.32
+[2020.06.07-00.10.57:105][704]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.11.23:508][598]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.11.23:508][598]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.11.23:509][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.11.23:509][598]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.11.23:509][598]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.11.23:509][598]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.11.23:509][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.11.23:514][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.11.23:518][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.11.23:554][598]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.11.23:557][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.11.23:560][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.06.07-00.11.23:609][600]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.06.07-00.11.39:099][618]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.11.39:148][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.06.07-00.11.40:922][774]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.11.40:953][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.11.40:953][774]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:11:40 AM)
+[2020.06.07-00.11.40:953][774]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.11.40:956][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002385s)
+[2020.06.07-00.11.40:956][774]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.11.40:957][774]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2020.06.07-00.11.40:957][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003235s)
+[2020.06.07-00.11.40:998][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.06.07-00.11.40:998][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.11.40:998][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.11.40:998][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.11.40:998][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.11.40:998][774]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.11.40:998][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.11.40:998][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.11.40:998][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.11.40:999][774]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.11.40:999][774]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.11.41:059][774]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.11.41:060][774]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.11.41:060][774]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.11.41:060][774]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.11.41:060][774]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.11.41:060][774]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.11.41:060][774]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.11.41:060][774]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.11.41:060][774]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.11.41:071][774]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.11.41:072][774]LogInit: FAudioDevice initialized.
+[2020.06.07-00.11.41:083][774]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.11.41:084][774]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.11.41
+[2020.06.07-00.11.41:084][774]LogWorld: Bringing up level for play took: 0.000857
+[2020.06.07-00.11.41:084][774]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.06.07-00.11.41:087][774]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.745
+[2020.06.07-00.11.42:437][915]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.11.44:561][140]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.11.44:561][140]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.11.44:561][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.11.44:561][140]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.11.44:561][140]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.11.44:561][140]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.11.44:561][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.11.44:570][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.11.44:576][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.11.44:619][140]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.11.44:623][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.11.44:627][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.06.07-00.11.44:660][142]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.06.07-00.11.52:807][954]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.11.52:855][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.06.07-00.11.54:080][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.11.54:108][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.11.54:108][ 67]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:11:54 AM)
+[2020.06.07-00.11.54:108][ 67]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.11.54:110][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002139s)
+[2020.06.07-00.11.54:111][ 67]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.11.54:111][ 67]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2020.06.07-00.11.54:111][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002986s)
+[2020.06.07-00.11.54:151][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.06.07-00.11.54:151][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.11.54:151][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.11.54:151][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.11.54:151][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.11.54:151][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.11.54:151][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.11.54:151][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.11.54:151][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.11.54:152][ 67]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.11.54:152][ 67]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.11.54:212][ 67]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.11.54:212][ 67]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.11.54:212][ 67]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.11.54:212][ 67]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.11.54:212][ 67]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.11.54:212][ 67]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.11.54:212][ 67]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.11.54:212][ 67]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.11.54:212][ 67]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.11.54:224][ 67]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.11.54:225][ 67]LogInit: FAudioDevice initialized.
+[2020.06.07-00.11.54:236][ 67]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.11.54:238][ 67]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.11.54
+[2020.06.07-00.11.54:238][ 67]LogWorld: Bringing up level for play took: 0.000836
+[2020.06.07-00.11.54:238][ 67]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.06.07-00.11.54:240][ 67]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.102
+[2020.06.07-00.11.54:739][120]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.11.57:349][399]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.11.57:349][399]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.11.57:349][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.11.57:349][399]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.11.57:349][399]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.11.57:349][399]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.11.57:349][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.11.57:355][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.11.57:359][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.11.57:397][399]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.11.57:399][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.11.57:402][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.06.07-00.11.57:453][403]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.06.07-00.12.09:296][608]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.12.09:348][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.06.07-00.12.10:788][742]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.12.10:816][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.12.10:816][742]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:12:10 AM)
+[2020.06.07-00.12.10:816][742]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.12.10:819][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002690s)
+[2020.06.07-00.12.10:820][742]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.12.10:820][742]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2020.06.07-00.12.10:820][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003529s)
+[2020.06.07-00.12.10:858][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.06.07-00.12.10:859][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.12.10:859][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.12.10:859][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.12.10:859][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.12.10:859][742]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.12.10:859][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.12.10:859][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.12.10:859][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.12.10:860][742]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.12.10:860][742]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.12.10:919][742]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.12.10:919][742]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.12.10:919][742]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.12.10:919][742]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.12.10:919][742]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.12.10:919][742]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.12.10:919][742]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.12.10:919][742]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.12.10:919][742]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.12.10:930][742]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.12.10:931][742]LogInit: FAudioDevice initialized.
+[2020.06.07-00.12.10:939][742]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.12.10:941][742]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.12.10
+[2020.06.07-00.12.10:941][742]LogWorld: Bringing up level for play took: 0.000840
+[2020.06.07-00.12.10:941][742]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.06.07-00.12.10:943][742]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.602
+[2020.06.07-00.12.11:736][824]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.12.15:438][230]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.12.15:438][230]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.12.15:439][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.12.15:439][230]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.12.15:439][230]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.12.15:439][230]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.12.15:439][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.12.15:444][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.12.15:449][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.12.15:483][230]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.12.15:486][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.12.15:489][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.06.07-00.12.15:542][234]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.06.07-00.12.29:606][724]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.12.29:653][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.06.07-00.12.31:026][843]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.12.31:054][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.12.31:054][843]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:12:31 AM)
+[2020.06.07-00.12.31:054][843]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.12.31:056][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002336s)
+[2020.06.07-00.12.31:056][843]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.12.31:056][843]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2020.06.07-00.12.31:056][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003193s)
+[2020.06.07-00.12.31:097][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.06.07-00.12.31:098][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.12.31:098][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.12.31:098][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.12.31:098][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.12.31:098][843]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.12.31:098][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.12.31:098][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.12.31:098][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.12.31:098][843]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.12.31:099][843]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.12.31:157][843]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.12.31:157][843]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.12.31:157][843]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.12.31:157][843]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.12.31:157][843]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.12.31:157][843]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.12.31:157][843]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.12.31:157][843]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.12.31:157][843]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.12.31:169][843]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.12.31:170][843]LogInit: FAudioDevice initialized.
+[2020.06.07-00.12.31:175][843]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.12.31:176][843]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.12.31
+[2020.06.07-00.12.31:176][843]LogWorld: Bringing up level for play took: 0.000796
+[2020.06.07-00.12.31:176][843]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.06.07-00.12.31:178][843]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.837
+[2020.06.07-00.12.32:150][945]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.13.05:413][692]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.13.05:413][692]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.13.05:413][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.13.05:413][692]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.13.05:413][692]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.13.05:414][692]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.13.05:414][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.13.05:421][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.13.05:426][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.13.05:463][692]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.13.05:467][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.13.05:470][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.06.07-00.13.05:523][694]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.06.07-00.13.31:117][311]LogEditorTransaction: Undo Edit Width Override
+[2020.06.07-00.14.38:003][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.06.07-00.14.38:005][733]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MovementTest' took 0.039
+[2020.06.07-00.14.38:006][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/BP_InventoryWindow] ([1] browsable assets)...
+[2020.06.07-00.14.38:006][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/BP_InventoryWindow]
+[2020.06.07-00.14.38:028][733]LogSavePackage: Moving 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Saved/BP_InventoryWindow_Auto336F18AF244F2EC48A762D998BC75C93F.tmp' to 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Saved/Autosaves/Game/Widgets/BP_InventoryWindow_Auto3.uasset'
+[2020.06.07-00.14.38:028][733]LogFileHelpers: Auto-saving content packages took 0.023
+[2020.06.07-00.16.21:078][319]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MovementTest.MovementTest
+[2020.06.07-00.16.21:116][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.06.07-00.16.24:879][319]LogSlate: Window 'Save Content' being destroyed
+[2020.06.07-00.18.13:651][176]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.18.13:705][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.06.07-00.18.14:989][295]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.18.15:017][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.18.15:017][295]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:18:15 AM)
+[2020.06.07-00.18.15:017][295]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.18.15:020][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002528s)
+[2020.06.07-00.18.15:020][295]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.18.15:020][295]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2020.06.07-00.18.15:020][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003419s)
+[2020.06.07-00.18.15:060][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.06.07-00.18.15:061][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.18.15:061][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.18.15:061][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.18.15:061][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.18.15:061][295]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.18.15:061][295]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.18.15:061][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.18.15:061][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.18.15:061][295]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.18.15:061][295]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.18.15:118][295]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.18.15:118][295]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.18.15:118][295]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.18.15:118][295]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.18.15:118][295]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.18.15:118][295]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.18.15:119][295]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.18.15:119][295]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.18.15:119][295]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.18.15:130][295]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.18.15:131][295]LogInit: FAudioDevice initialized.
+[2020.06.07-00.18.15:142][295]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.18.15:143][295]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.18.15
+[2020.06.07-00.18.15:143][295]LogWorld: Bringing up level for play took: 0.000893
+[2020.06.07-00.18.15:144][295]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2020.06.07-00.18.15:146][295]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.804
+[2020.06.07-00.18.16:057][393]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.18.17:504][561]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.18.17:505][561]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.18.17:505][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.18.17:505][561]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.18.17:505][561]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.18.17:505][561]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.18.17:505][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.18.17:513][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.18.17:517][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.18.17:555][561]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.18.17:557][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.18.17:560][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.06.07-00.18.17:608][563]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.06.07-00.18.42:112][316]BlueprintLog: New page: Compile BP_InventorySlot
+[2020.06.07-00.18.42:158][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.06.07-00.18.44:013][486]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.18.44:042][486]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.06.07-00.18.44:043][486]LogPlayLevel: [PlayLevel] Compiling BP_InventoryWindow before play...
+[2020.06.07-00.18.44:289][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.06.07-00.18.44:290][486]LogPlayLevel: PlayLevel: Blueprint regeneration took 248 ms (1 blueprints)
+[2020.06.07-00.18.44:290][486]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:18:44 AM)
+[2020.06.07-00.18.44:290][486]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.18.44:292][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002118s)
+[2020.06.07-00.18.44:293][486]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.18.44:293][486]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2020.06.07-00.18.44:293][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003036s)
+[2020.06.07-00.18.44:330][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.06.07-00.18.44:330][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.18.44:330][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.18.44:330][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.18.44:330][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.18.44:330][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.18.44:330][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.18.44:330][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.18.44:330][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.18.44:331][486]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.18.44:331][486]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.18.44:388][486]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.18.44:388][486]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.18.44:388][486]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.18.44:388][486]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.18.44:388][486]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.18.44:388][486]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.18.44:388][486]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.18.44:388][486]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.18.44:388][486]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.18.44:399][486]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.18.44:400][486]LogInit: FAudioDevice initialized.
+[2020.06.07-00.18.44:407][486]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.18.44:409][486]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.18.44
+[2020.06.07-00.18.44:409][486]LogWorld: Bringing up level for play took: 0.000900
+[2020.06.07-00.18.44:409][486]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.06.07-00.18.44:411][486]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.069
+[2020.06.07-00.18.45:713][623]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.18.49:738][ 87]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.18.49:738][ 87]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.18.49:739][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.18.49:739][ 87]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.18.49:739][ 87]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.18.49:739][ 87]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.18.49:739][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.18.49:746][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.18.49:751][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.18.49:788][ 87]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.18.49:791][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.18.49:795][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.06.07-00.18.49:851][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.06.07-00.18.58:669][ 60]BlueprintLog: New page: Compile BP_InventorySlot
+[2020.06.07-00.18.58:713][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.06.07-00.19.00:144][194]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.19.00:172][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.19.00:172][194]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:19:00 AM)
+[2020.06.07-00.19.00:173][194]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.19.00:175][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002049s)
+[2020.06.07-00.19.00:175][194]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.19.00:175][194]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2020.06.07-00.19.00:175][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002816s)
+[2020.06.07-00.19.00:213][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.06.07-00.19.00:214][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.19.00:214][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.19.00:214][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.19.00:214][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.19.00:214][194]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.19.00:214][194]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.19.00:214][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.19.00:214][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.19.00:214][194]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.19.00:214][194]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.19.00:274][194]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.19.00:274][194]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.19.00:274][194]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.19.00:274][194]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.19.00:275][194]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.19.00:275][194]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.19.00:275][194]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.19.00:275][194]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.19.00:275][194]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.19.00:286][194]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.19.00:287][194]LogInit: FAudioDevice initialized.
+[2020.06.07-00.19.00:297][194]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.19.00:299][194]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.19.00
+[2020.06.07-00.19.00:299][194]LogWorld: Bringing up level for play took: 0.000845
+[2020.06.07-00.19.00:299][194]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.06.07-00.19.00:301][194]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.041
+[2020.06.07-00.19.00:779][244]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.19.06:655][904]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.19.06:655][904]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.19.06:655][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.19.06:655][904]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.19.06:655][904]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.19.06:655][904]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.19.06:655][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.19.06:662][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.19.06:666][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.19.06:703][904]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.19.06:706][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.19.06:709][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.06.07-00.19.06:766][906]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.06.07-00.19.32:337][661]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.19.32:389][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.06.07-00.19.34:179][844]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.19.34:206][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.19.34:206][844]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:19:34 AM)
+[2020.06.07-00.19.34:207][844]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.19.34:209][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002167s)
+[2020.06.07-00.19.34:209][844]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.19.34:210][844]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2020.06.07-00.19.34:210][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003058s)
+[2020.06.07-00.19.34:250][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.06.07-00.19.34:251][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.19.34:251][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.19.34:251][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.19.34:251][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.19.34:251][844]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.19.34:251][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.19.34:251][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.19.34:251][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.19.34:251][844]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.19.34:251][844]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.19.34:309][844]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.19.34:309][844]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.19.34:309][844]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.19.34:309][844]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.19.34:309][844]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.19.34:309][844]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.19.34:309][844]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.19.34:309][844]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.19.34:309][844]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.19.34:320][844]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.19.34:322][844]LogInit: FAudioDevice initialized.
+[2020.06.07-00.19.34:327][844]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.19.34:328][844]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.19.34
+[2020.06.07-00.19.34:328][844]LogWorld: Bringing up level for play took: 0.000988
+[2020.06.07-00.19.34:329][844]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.06.07-00.19.34:331][844]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.011
+[2020.06.07-00.19.34:835][899]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.19.38:257][294]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.19.38:257][294]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.19.38:258][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.19.38:258][294]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.19.38:258][294]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.19.38:258][294]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.19.38:258][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.19.38:262][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.19.38:267][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.19.38:301][294]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.19.38:304][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.19.38:307][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.06.07-00.19.38:366][296]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.06.07-00.19.57:518][485]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.19.57:568][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.06.07-00.19.58:770][607]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.19.58:798][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.19.58:798][607]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:19:58 AM)
+[2020.06.07-00.19.58:798][607]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.19.58:800][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002118s)
+[2020.06.07-00.19.58:801][607]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.19.58:801][607]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2020.06.07-00.19.58:801][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002923s)
+[2020.06.07-00.19.58:842][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.06.07-00.19.58:842][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.19.58:842][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.19.58:842][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.19.58:842][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.19.58:842][607]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.19.58:842][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.19.58:842][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.19.58:842][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.19.58:843][607]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.19.58:843][607]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.19.58:900][607]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.19.58:900][607]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.19.58:900][607]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.19.58:900][607]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.19.58:900][607]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.19.58:900][607]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.19.58:900][607]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.19.58:900][607]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.19.58:900][607]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.19.58:911][607]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.19.58:912][607]LogInit: FAudioDevice initialized.
+[2020.06.07-00.19.58:920][607]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.19.58:921][607]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.19.58
+[2020.06.07-00.19.58:921][607]LogWorld: Bringing up level for play took: 0.000801
+[2020.06.07-00.19.58:922][607]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.06.07-00.19.58:924][607]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.582
+[2020.06.07-00.19.59:574][679]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.20.04:203][216]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.04:203][216]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.04:204][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.20.04:204][216]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.20.04:204][216]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.04:204][216]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.20.04:204][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.20.04:213][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.20.04:218][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.20.04:257][216]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.04:260][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.20.04:263][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.06.07-00.20.04:320][218]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.06.07-00.20.20:867][ 29]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.20.20:913][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.06.07-00.20.21:906][125]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.20.21:932][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.20.21:932][125]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:20:21 AM)
+[2020.06.07-00.20.21:933][125]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.20.21:935][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002031s)
+[2020.06.07-00.20.21:935][125]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.20.21:935][125]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2020.06.07-00.20.21:935][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002800s)
+[2020.06.07-00.20.21:973][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.06.07-00.20.21:974][125]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.20.21:974][125]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.20.21:974][125]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.20.21:974][125]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.20.21:974][125]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.20.21:974][125]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.20.21:974][125]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.20.21:974][125]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.20.21:974][125]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.20.21:974][125]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.20.22:032][125]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.20.22:032][125]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.20.22:032][125]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.20.22:032][125]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.20.22:032][125]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.20.22:032][125]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.20.22:032][125]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.20.22:032][125]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.20.22:032][125]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.20.22:043][125]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.20.22:044][125]LogInit: FAudioDevice initialized.
+[2020.06.07-00.20.22:053][125]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.20.22:054][125]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.20.22
+[2020.06.07-00.20.22:055][125]LogWorld: Bringing up level for play took: 0.000987
+[2020.06.07-00.20.22:055][125]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.06.07-00.20.22:057][125]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.285
+[2020.06.07-00.20.23:196][250]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.20.25:603][529]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.25:603][529]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.25:604][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.20.25:604][529]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.20.25:604][529]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.25:604][529]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.20.25:604][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.20.25:614][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.20.25:619][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.20.25:657][529]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.25:659][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.20.25:662][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.06.07-00.20.25:716][531]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.06.07-00.20.35:662][630]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.20.35:711][630]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.06.07-00.20.36:874][743]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.20.36:902][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.20.36:902][743]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:20:36 AM)
+[2020.06.07-00.20.36:902][743]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.20.36:904][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002016s)
+[2020.06.07-00.20.36:905][743]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.20.36:905][743]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2020.06.07-00.20.36:905][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002846s)
+[2020.06.07-00.20.36:942][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.06.07-00.20.36:943][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.20.36:943][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.20.36:943][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.20.36:943][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.20.36:943][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.20.36:943][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.20.36:943][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.20.36:943][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.20.36:943][743]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.20.36:943][743]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.20.37:003][743]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.20.37:003][743]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.20.37:003][743]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.20.37:003][743]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.20.37:004][743]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.20.37:004][743]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.20.37:004][743]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.20.37:004][743]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.20.37:004][743]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.20.37:016][743]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.20.37:017][743]LogInit: FAudioDevice initialized.
+[2020.06.07-00.20.37:025][743]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.20.37:026][743]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.20.37
+[2020.06.07-00.20.37:026][743]LogWorld: Bringing up level for play took: 0.000871
+[2020.06.07-00.20.37:026][743]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.06.07-00.20.37:028][743]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.687
+[2020.06.07-00.20.37:401][783]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.20.41:081][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.41:081][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.41:081][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.20.41:081][192]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.20.41:081][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.41:081][192]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.20.41:081][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.20.41:091][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.20.41:096][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.20.41:135][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.41:138][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.20.41:141][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.06.07-00.20.41:207][194]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.06.07-00.20.46:292][751]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.20.46:343][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.06.07-00.20.47:370][847]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.20.47:396][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.20.47:396][847]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:20:47 AM)
+[2020.06.07-00.20.47:396][847]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.20.47:398][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002141s)
+[2020.06.07-00.20.47:399][847]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.20.47:399][847]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2020.06.07-00.20.47:399][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002970s)
+[2020.06.07-00.20.47:440][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.06.07-00.20.47:440][847]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.20.47:441][847]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.20.47:441][847]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.20.47:441][847]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.20.47:441][847]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.20.47:441][847]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.20.47:441][847]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.20.47:441][847]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.20.47:441][847]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.20.47:441][847]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.20.47:499][847]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.20.47:499][847]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.20.47:499][847]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.20.47:499][847]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.20.47:499][847]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.20.47:499][847]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.20.47:499][847]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.20.47:499][847]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.20.47:499][847]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.20.47:511][847]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.20.47:513][847]LogInit: FAudioDevice initialized.
+[2020.06.07-00.20.47:519][847]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.20.47:521][847]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.20.47
+[2020.06.07-00.20.47:521][847]LogWorld: Bringing up level for play took: 0.000856
+[2020.06.07-00.20.47:521][847]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.06.07-00.20.47:523][847]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.819
+[2020.06.07-00.20.47:914][889]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.20.54:289][617]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.54:289][617]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.54:290][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.20.54:290][617]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.20.54:290][617]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.54:290][617]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.20.54:290][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.20.54:300][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.20.54:305][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.20.54:343][617]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.20.54:345][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.20.54:349][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.06.07-00.20.54:397][620]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.06.07-00.21.18:876][335]LogEditorTransaction: Undo Edit Y
+[2020.06.07-00.21.30:662][607]LogEditorTransaction: Undo Edit Y
+[2020.06.07-00.22.30:221][998]LogEditorTransaction: Undo Wrap Widgets
+[2020.06.07-00.25.35:698][209]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.25.35:755][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.06.07-00.27.18:102][452]LogEditorTransaction: Undo Duplicate selection
+[2020.06.07-00.28.28:973][284]BlueprintLog: New page: Compile BP_InventoryWindow
+[2020.06.07-00.28.29:027][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.06.07-00.28.30:735][443]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.28.30:762][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.28.30:762][443]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:28:30 AM)
+[2020.06.07-00.28.30:762][443]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.28.30:764][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002223s)
+[2020.06.07-00.28.30:765][443]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.28.30:765][443]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2020.06.07-00.28.30:765][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003075s)
+[2020.06.07-00.28.30:804][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.06.07-00.28.30:806][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.28.30:806][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.28.30:806][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.28.30:806][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.28.30:806][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.28.30:806][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.28.30:806][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.28.30:806][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.28.30:807][443]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.28.30:807][443]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.28.30:869][443]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.28.30:869][443]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.28.30:869][443]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.28.30:869][443]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.28.30:869][443]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.28.30:869][443]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.28.30:869][443]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.28.30:869][443]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.28.30:869][443]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.28.30:881][443]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.28.30:883][443]LogInit: FAudioDevice initialized.
+[2020.06.07-00.28.30:894][443]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.28.30:895][443]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.28.30
+[2020.06.07-00.28.30:895][443]LogWorld: Bringing up level for play took: 0.000973
+[2020.06.07-00.28.30:896][443]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.06.07-00.28.30:898][443]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.556
+[2020.06.07-00.28.31:393][496]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.28.36:607][ 82]LogBlueprintUserMessages: [BP_Inventory] Toggled To Close!
+[2020.06.07-00.28.37:350][167]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.28.37:350][167]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.28.37:351][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.28.37:351][167]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.28.37:351][167]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.28.37:351][167]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.28.37:351][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.28.37:358][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.28.37:363][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.28.37:399][167]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.28.37:402][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.28.37:405][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.06.07-00.28.37:462][169]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.06.07-00.28.39:708][397]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.28.39:735][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.28.39:736][397]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:28:39 AM)
+[2020.06.07-00.28.39:736][397]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.28.39:738][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002043s)
+[2020.06.07-00.28.39:738][397]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.28.39:738][397]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2020.06.07-00.28.39:738][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.002805s)
+[2020.06.07-00.28.39:775][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.06.07-00.28.39:775][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.28.39:775][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.28.39:775][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.28.39:775][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.28.39:775][397]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.28.39:775][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.28.39:775][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.28.39:775][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.28.39:776][397]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.28.39:776][397]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.28.39:833][397]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.28.39:833][397]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.28.39:833][397]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.28.39:833][397]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.28.39:833][397]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.28.39:833][397]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.28.39:833][397]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.28.39:833][397]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.28.39:833][397]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.28.39:844][397]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.28.39:845][397]LogInit: FAudioDevice initialized.
+[2020.06.07-00.28.39:852][397]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.28.39:853][397]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.28.39
+[2020.06.07-00.28.39:853][397]LogWorld: Bringing up level for play took: 0.000816
+[2020.06.07-00.28.39:853][397]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.06.07-00.28.39:855][397]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest -0.486
+[2020.06.07-00.28.40:761][496]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.28.45:747][ 63]LogBlueprintUserMessages: [BP_Inventory] Toggled To Close!
+[2020.06.07-00.28.46:218][114]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.28.46:218][114]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.28.46:218][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.28.46:218][114]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.28.46:218][114]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.28.46:219][114]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.28.46:219][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.28.46:230][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.28.46:234][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.28.46:273][114]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.28.46:275][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.28.46:278][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.06.07-00.28.46:339][116]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.06.07-00.29.16:838][778]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-00.29.16:870][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-00.29.16:870][778]PIE: New page: PIE session: MovementTest (Jun 6, 2020, 10:29:16 AM)
+[2020.06.07-00.29.16:870][778]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.29.16:872][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002200s)
+[2020.06.07-00.29.16:873][778]LogAIModule: Creating AISystem for world MovementTest
+[2020.06.07-00.29.16:873][778]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2020.06.07-00.29.16:873][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MovementTest.MovementTest to /Game/Levels/UEDPIE_0_MovementTest.MovementTest (0.003001s)
+[2020.06.07-00.29.16:913][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.06.07-00.29.16:914][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-00.29.16:914][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-00.29.16:914][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-00.29.16:914][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-00.29.16:914][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-00.29.16:914][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-00.29.16:914][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-00.29.16:914][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-00.29.16:915][778]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-00.29.16:915][778]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-00.29.16:974][778]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-00.29.16:974][778]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.29.16:974][778]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-00.29.16:974][778]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-00.29.16:974][778]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-00.29.16:974][778]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-00.29.16:975][778]LogAudioMixer: Display: Channel Order:
+[2020.06.07-00.29.16:975][778]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-00.29.16:975][778]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-00.29.16:985][778]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.06.07-00.29.16:987][778]LogInit: FAudioDevice initialized.
+[2020.06.07-00.29.16:997][778]LogLoad: Game class is 'BP_GameMode_C'
+[2020.06.07-00.29.16:998][778]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.06.06-17.29.16
+[2020.06.07-00.29.16:999][778]LogWorld: Bringing up level for play took: 0.000811
+[2020.06.07-00.29.16:999][778]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.06.07-00.29.17:001][778]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MovementTest 0.659
+[2020.06.07-00.29.17:741][852]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.29.21:009][192]LogBlueprintUserMessages: [BP_Inventory] Toggled To Close!
+[2020.06.07-00.29.21:064][197]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-00.29.23:329][433]LogBlueprintUserMessages: [BP_Inventory] Toggled To Close!
+[2020.06.07-00.29.23:463][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.29.23:463][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.29.23:463][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.29.23:463][447]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MovementTest
+[2020.06.07-00.29.23:463][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.29.23:463][447]LogWorld: UWorld::CleanupWorld for MovementTest, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-00.29.23:463][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.29.23:471][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-00.29.23:476][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-00.29.23:514][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-00.29.23:516][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-00.29.23:519][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.06.07-00.29.23:590][449]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.06.07-00.30.20:232][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.06.07-00.30.20:254][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/BP_InventoryWindow" FILE="E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Content/Widgets/BP_InventoryWindow.uasset" SILENT=true
+[2020.06.07-00.30.20:278][855]LogSavePackage: Moving 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Saved/BP_InventoryWindow8539347D4CE8FB943A4F1BBACC7B9367.tmp' to 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Content/Widgets/BP_InventoryWindow.uasset'
+[2020.06.07-00.30.20:280][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/BP_InventorySlot" FILE="E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Content/Widgets/BP_InventorySlot.uasset" SILENT=true
+[2020.06.07-00.30.20:294][855]LogSavePackage: Moving 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Saved/BP_InventorySlotE9C30263433F13D5F432ADB9347DD019.tmp' to 'E:/UNREAL TRIALS/MegamanRepo2/MegaClone_2/MegaClone2/Content/Widgets/BP_InventorySlot.uasset'
+[2020.06.07-00.30.20:312][855]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.07-00.30.20:312][855]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/BP_InventoryWindow.BP_InventoryWindow
+[2020.06.07-00.30.20:312][855]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/BP_InventorySlot.BP_InventorySlot
